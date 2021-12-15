@@ -1,11 +1,11 @@
-# Pegasus™
-A simple Discord search bot. Supports Google, GitHub, YouTube, Image, YouTube Direct, and Top.gg, made with Discord.js v12.5.3.
+# Quantum™
+A simple Discord translator bot, support 10 most spoken language, except for Chinese (zh) cuz tthe API doesn't support Chinese.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 
-## An easy to use command handler by AtMostFear#7752
-**A Discord Command Handler Written In Discord.js to fulfil all your needs! compatible for all commands and packages!**
+## An easy to use Translator Bot by AtMostFear#7752
+**A Discord Translator Bot Written In Discord.js**
 
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 
@@ -23,7 +23,7 @@ A simple Discord search bot. Supports Google, GitHub, YouTube, Image, YouTube Di
 `
 npm install
 `
-### Step 3: Replace all words containing "Pegasus" to your own bot's name and you can edit some of the inputs, depending on your bot's info. Here are file(s) list that require you to change the info based on your bot's info :
+### Step 3: Replace all words containing "Quantum" to your own bot's name and you can edit some of the inputs, depending on your bot's info. Here are file(s) list that require you to change the info based on your bot's info :
 1. config.json
 2. ../events/discord/ready.js (Row Number 3)
 ### Step 4: Now, simply click the Run button!
