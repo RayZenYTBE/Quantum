@@ -1,7 +1,7 @@
 {
-  "name": "Pegasus",
+  "name": "Quantum",
   "version": "1.0.0",
-  "description": "Pegasus",
+  "description": "Amazing Translator",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -28,7 +28,6 @@
     "discord.js-akinator": "^3.3.1",
     "express": "^4.17.1",
     "flip-text": "^1.2.0",
-    "images-scraper": "^6.4.0",
     "is-url": "^1.2.4",
     "mathjs": "^10.0.0",
     "mongoose": "^6.0.13",
