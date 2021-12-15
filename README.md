@@ -24,7 +24,9 @@ A simple Discord search bot. Supports Google, GitHub, YouTube, Image, YouTube Di
 `
 npm install
 `
-### Step 3: Replace all words containing "Pegasus" to your own bot's name and you can edit some of the inputs, depending on your bot's info (Optional)
+### Step 3: Replace all words containing "Pegasus" to your own bot's name and you can edit some of the inputs, depending on your bot's info. Here are file(s) list that require you to change the info based on your bot's info :
+1. config.json
+2. ../events/discord/ready.js (Row Number 3)
 ### Step 4: Now, simply click the Run button!
 
 # Links
