@@ -31,6 +31,7 @@ npm install
 # Links
 - 🔗 [AtMostFear](https://sites.google.com/view/atmostfeardevelopersite/)
 - [Support Server Link](https://discord.gg/6XSjbKBbJT)
+- [Host on Replit](https://replit.com/github/RayZenYTBE/Quantum)
 # Copyright 
 Copyright 2021 © All RIghts are Reserved
 # Credits
