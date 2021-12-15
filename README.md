@@ -1,7 +1,5 @@
-# Pegasus
+# Pegasus™
 A simple Discord search bot. Supports Google, GitHub, YouTube, Image, YouTube Direct, and Top.gg, made with Discord.js v12.5.3.
-
-# Command Handler™
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 
