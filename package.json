@@ -1,12 +1,12 @@
 {
-  "name": "GiveawayBot",
+  "name": "Pegasus",
   "version": "1.0.0",
-  "description": "R.C.B. is a God Bot made with Casrifice and Love",
+  "description": "Pegasus",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Zero",
+  "author": "AtMostFear",
   "license": "CC-Zero",
   "keywords": [
     "discord",
